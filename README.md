@@ -1,4 +1,7 @@
 # GodsEye AntiCheat | Advanced Detection
+
+__*Quick Plugin Check:*__ The Plugin is now usable and functioning. This plugin is, as of right now, only recommended for servers that are open to the public as the plugin has been completely optomized for large servers.
+
 <p align="center">
   <b>Note:</b><br>
 currently recoding the plugin, that means that we are going to be off the normal updates schedule for a while (there will be updates, but they will be slower than normal)
@@ -14,6 +17,7 @@ With GodsEye we make sure to keep its checks/detection systems up to date and wo
 
 <p align="center">
   <b>Dependencies:</b><br>
+ComingSoon
 
 <p align="center">
   <b>Compatibility</b><br>
@@ -30,7 +34,7 @@ Current special support plugins:
 - Enjoy!
 
 <p align="center">
-  b>Features</b><br>
+  <b>Features</b><br>
 Smart Notification System - The verbose system allows you to see information about every violation given in real-time, but if you prefer to still get information but without getting spammed in the chat, you can use GodsEye's second alerts system which sends reports every time a player reaches a configurable amount of violations.
 LightWeight - Coded to be optimized and makes sure to obfuscate with minimal performance impact as possible while still protecting the code from hack client developers, so if you are not running your server on a potato setup you should be fine.
 Fully Automated - GodsEye is completely automated and can detect and punish hackers by itself, just make sure to configure it correctly to work good in your server and you're ready to go!

@@ -32,3 +32,7 @@ Current special support plugins:
 - make sure your server version is supported and install protocolLib
 - Restart the server
 - Enjoy!
+
+  # Features
+  
+    - [x] Smart Notification System - The verbose system allows you to see information about every violation given in real-time, but if you prefer to still get information but without getting spammed in the chat, you can use GodsEye's second alerts system which sends reports every time a player reaches a configurable amount of violations.

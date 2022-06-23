@@ -32,9 +32,7 @@ Current special support plugins:
 - make sure your server version is supported and install protocolLib
 - Restart the server
 - Enjoy!
-
-<p align="center">
-  <b>Features</b><br>
+#  Features
 - [x] Smart Notification System - The verbose system allows you to see information about every violation given in real-time, but if you prefer to still get information but without getting spammed in the chat, you can use GodsEye's second alerts system which sends reports every time a player reaches a configurable amount of violations.
 - [x] LightWeight - Coded to be optimized and makes sure to obfuscate with minimal performance impact as possible while still protecting the code from hack client developers, so if you are not running your server on a potato setup you should be fine.
 Fully Automated - GodsEye is completely automated and can detect and punish hackers by itself, just make sure to configure it correctly to work good in your server and you're ready to go!

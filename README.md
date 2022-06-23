@@ -25,13 +25,12 @@ GodsEye is not supporting any plugin that modifies players movement or combat me
 Current special support plugins:
 - N/A
 
-<p align="center">
-  <b>Installation</b><br>
-- Download the plugin
-- Drag and drop the plugin into your plugin directory
-- make sure your server version is supported and install protocolLib
-- Restart the server
-- Enjoy!
+- <h3>How To Setup:</h3>
+1. Download the plugin
+2. Drag and drop the plugin into your plugin directory
+3. make sure your server version is supported and install protocolLib
+4. Restart the server
+5. Enjoy!
 
   # Features
   - Main Features
